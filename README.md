@@ -10,4 +10,4 @@
 1. View a html/php file with the hotkey: ctrl + shift + b 
 
 
-For more information, visit my blog pls. [http://www.imququ.com/post/view_sublime-text-2_file_in_browser.html](http://www.imququ.com/post/view_sublime-text-2_file_in_browser.html)
+For more information, visit my blog pls. [http://www.imququ.com/post/view_sublime-text-2_file_in_browser.html](http://www.imququ.com/post/view_sublime-text-2_file_in_browser.html) 
